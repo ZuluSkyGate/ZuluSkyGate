@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZuluSkyGate
-- 👀 I’m interested in developer, project managment, data science
-- 🌱 I’m currently learning: python, C#, java
+- 👀 I’m interested in QA test engineer, developer, project managment, data science
+- 🌱 I’m currently learning: QA, python, C#, java
 - 💞️ I want to collaborate with the company remotely
 - 📫 How to reach me: (Telegram: @Zulu_2277)
